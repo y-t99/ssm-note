@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a643664c-8151-4c36-b3d9-52bf6a618e2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/annotation/bean/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/annotation/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/annotation/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/annotation/dao/DaoSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/annotation/service/ServiceSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/annotation/tx/TransactionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/dao/DaoSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/service/ServiceSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/tx/TransactionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/_constructor/CatC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/_factorybean/CatB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/_factorybean/CatFB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/bean/CollectionBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/bean/ConstructorBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/bean/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/bean/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/lifecycle/bean/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/lifecycle/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/annotation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/aop_annotation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/aop_xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/di.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ioc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/lifecycle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/person" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -222,7 +193,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581852454273" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581853268689" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -357,7 +328,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581834292385</updated>
-      <workItem from="1581834296265" duration="15057000" />
+      <workItem from="1581834296265" duration="15654000" />
     </task>
     <servers />
   </component>
@@ -394,11 +365,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15057000" />
+    <option name="totallyTimeSpent" value="15654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -417,7 +387,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26832846" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26832846" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
