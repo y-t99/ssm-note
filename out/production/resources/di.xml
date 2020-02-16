@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        ttp://www.springframework.org/schema/context
+        https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="dog" class="cn.yuanyuan.di.xml.bean.Dog"/>
+
+    <!--<bean id="person" class="cn.yuanyuan.di.xml.bean.Person">-->
+    <!--<property name="name" value="yuanyuan"/>-->
+    <!--<property name="age" value="20"/>-->
+    <!--<property name="pet" ref="dog"/>-->
+    <!--</bean>-->
+    <!--引入p命令空间后bean xml的简写-->
+    <bean id="person" class="cn.yuanyuan.di.xml.bean.Person"
+          p:name="yuanyuan" p:age="20" p:pet-ref="dog"/>
+
+    <bean id="collectionBean" class="cn.yuanyuan.di.xml.bean.CollectionBean">
+        <!-- 注入集合类型 -->
+        <property name="set">
+            <set>
+                <value>set1</value>
+                <value>set2</value>
+                <!--<bean>注入对象-->
+            </set>
+        </property>
+        <!-- list注入列表 -->
+        <property name="list">
+            <list>
+                <value>list1</value>
+                <value>list2</value>
+                <!--<bean>注入对象-->
+            </list>
+        </property>
+        <!-- 数组与list相似 -->
+        <property name="array">
+            <list>
+                <value>array1</value>
+                <value>array2</value>
+                <!--<bean>注入对象-->
+            </list>
+        </property>
+        <!--map注入-->
+        <property name="map">
+            <map>
+                <entry key="键" value="值"/>
+                <!--<entry key-ref="" value-ref=""/> 注入对象键值-->
+            </map>
+        </property>
+        <!--properties 可以和map一样，也可以自己的方式-->
+        <!--<property name="properties">-->
+        <!--<props>-->
+        <!--<prop key="k1">v1</prop>-->
+        <!--<prop key="k2">v2</prop>-->
+        <!--</props>-->
+        <!--</property>-->
+        <!--properties简写-->
+        <property name="properties">
+            <value>
+                k1=v1
+                k2=v2
+            </value>
+        </property>
+    </bean>
+
+    <bean id="constructorBean" class="cn.yuanyuan.di.xml.bean.ConstructorBean">
+        <constructor-arg name="parameter1" value="parameter1"/>
+        <constructor-arg name="parameter2" value="2"/>
+        <constructor-arg name="parameter3" value="3"/>
+    </bean>
+
+    <context:property-placeholder location="classpath:"/>
+</beans>
