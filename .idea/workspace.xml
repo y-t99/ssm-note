@@ -1,7 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a643664c-8151-4c36-b3d9-52bf6a618e2f" name="Default Changelist" comment="" />
+    <list default="true" id="a643664c-8151-4c36-b3d9-52bf6a618e2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/config/ServiceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice02/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice02/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice02/config/ServiceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice02/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice02/service/Service01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice03/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice03/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice03/config/ServiceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice03/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice03/service/Service01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/annotation/Flag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/config/ServiceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/service/Service01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/annotation/Flag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/config/ServiceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/config/ServiceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/config/ServiceAspect01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/config/ServiceAspect02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/pojo/Pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/pojo/SimplePojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/aop/SteelAroundAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/pojo/Axe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/pojo/SteelAxe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/TestBefore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/TestInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/TestPointcut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/pojo/Pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/pojo/SimplePojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/annotation/bean/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/annotation/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/aop/annotation/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/aop/annotation/dao/DaoSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/aop/annotation/service/ServiceSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/aop/annotation/tx/TransactionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/aop/xml/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/aop/xml/dao/DaoSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/aop/xml/service/ServiceSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/aop/xml/tx/TransactionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/createbean/_constructor/CatC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/createbean/_factorybean/CatB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/createbean/_factorybean/CatFB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/createbean/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/di/xml/bean/CollectionBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/di/xml/bean/ConstructorBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/di/xml/bean/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/di/xml/bean/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/di/xml/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/lifecycle/bean/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/yuanyuan/lifecycle/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/annotation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/aop_annotation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/aop_xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/di.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/ioc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/lifecycle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/person" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/bean/Dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/bean/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/postprocessor/YuanBeanFactoryPostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice02/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice02/bean/Dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice02/bean/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice02/bean/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice02/postprocessor/YuanBeanFactoryPostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice03/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice03/bean/Dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice03/bean/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice03/bean/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice03/postprocessor/YuanBeanFactoryPostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/bean/Dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/bean/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/config/MyConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/postprocessor/YuanBeanFactoryPostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/bean/Dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/bean/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/config/MyConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/bean/Dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/bean/DaoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/bean/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/config/MyConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/app/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/bean/Dao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/bean/IMapperScan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/bean/ImportBeanDefinitionRegistrat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/bean/MapperFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/config/MyConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/handler/MapperInvocationHandle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/annotation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/aop_annotation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/aop_xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/di.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/ioc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/lifecycle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/person" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -52,57 +176,13 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.2.2.RELEASE/f673b23665fc2c6c626bed55694091ef29acaf37/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="85" selection-start-line="85" selection-end-line="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.2.2.RELEASE/f673b23665fc2c6c626bed55694091ef29acaf37/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3916">
-              <caret line="241" selection-start-line="241" selection-end-line="241" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.2.2.RELEASE/f673b23665fc2c6c626bed55694091ef29acaf37/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1276">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/URLClassLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7172">
-              <caret line="380" selection-start-line="380" selection-end-line="380" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.2.2.RELEASE/f673b23665fc2c6c626bed55694091ef29acaf37/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13222">
-              <caret line="705" selection-start-line="705" selection-end-line="705" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -113,39 +193,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/createBean/ioc.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/createBean/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/_constructor/CatC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/_factorybean/CatB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/ioc.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/_factorybean/CatFB.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/lifecycle.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/lifecycle/bean/Cat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/bean/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/bean/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/bean/CollectionBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/bean/ConstructorBean.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/di.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/di_annotation.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/lifecycle/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/person" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/annotation/bean/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/annotation/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/annotation.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/App.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/tx/TransactionManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/service/ServiceSample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/dao/DaoSample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/AppTest.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/resources/aop_xml.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/annotation/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/annotation/tx/TransactionManager.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/aop_annotation.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/annotation/Flag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/service/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/service/Service01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/config/ServiceAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice04/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/service/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice05/config/ServiceAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/service/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/config/ServiceAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice06/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/config/ServiceAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/config/ServiceAspect01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/config/ServiceAspect02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice07/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/pojo/Pojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/pojo/SimplePojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/config/RetryAdvice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/pratice09/App.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/pratice09/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/config/PointcutDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/config/TestInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/config/BeforeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/pojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/pojo/Axe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/pojo/StoneAxe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/aop/MyProxyFactoryBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/aop/DebugInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/aop/ProxySteelAxe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/aop/SteelAroundAdvice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/pojo/SteelAxe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/Danlian.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/pojo/Pojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/pojo/SimplePojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/TestInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/PointcutDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/TestPointcut.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/BeforeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/TestAdvisor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/config/BeforeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/TestBefore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/App.java" />
       </list>
     </option>
   </component>
@@ -173,34 +271,49 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring5-practic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581853268689" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585301540078" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\springboot\ssm\src\main\resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="cn.yuanyuan.di.xml" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\springboot\ssm\src\main\resources" />
-      <recent name="D:\Java\springboot\ssm\src\main\java\cn\yuanyuan\aop\annotation" />
-      <recent name="D:\Java\springboot\ssm\src\main\java\cn\yuanyuan\aop" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.yuanyuan.practice09" />
+      <recent name="cn.yuanyuan.pratice09.config" />
+      <recent name="cn.yuanyuan.practice08" />
+      <recent name="cn.yuanyuan.practice07.config" />
       <recent name="cn.yuanyuan.lifecycle.test" />
-      <recent name="cn.yuanyuan.di.test" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Java\springboot\ssm\src\main\resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\springboot\ssm\src\main\java\cn\yuanyuan\practice10" />
+      <recent name="D:\Java\springboot\ssm\src\main\java\cn\yuanyuan\practice09\pojo" />
+      <recent name="D:\Java\springboot\ssm\src\main\java\cn\yuanyuan\practice08" />
+      <recent name="D:\Java\springboot\ssm\src\main\java\cn\yuanyuan\practice07" />
+      <recent name="D:\Java\springboot\ssm\src\main\java\cn\yuanyuan\practice06" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -215,93 +328,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest.test (1)">
-    <configuration name="AppTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.App (3)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yuanyuan.practice08.App" />
       <module name="cn.yuanyuan.spring5-practic.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.yuanyuan.aop.annotation.*" />
+          <option name="PATTERN" value="cn.yuanyuan.practice08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.yuanyuan.aop.annotation" />
-      <option name="MAIN_CLASS_NAME" value="cn.yuanyuan.aop.annotation.AppTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yuanyuan.practice09.App" />
       <module name="cn.yuanyuan.spring5-practic.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.yuanyuan.aop.xml.*" />
+          <option name="PATTERN" value="cn.yuanyuan.practice09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.yuanyuan.aop.xml" />
-      <option name="MAIN_CLASS_NAME" value="cn.yuanyuan.aop.xml.AppTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yuanyuan.practice10.App" />
       <module name="cn.yuanyuan.spring5-practic.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.yuanyuan.aop.xml.*" />
+          <option name="PATTERN" value="cn.yuanyuan.practice10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.yuanyuan.aop.xml" />
-      <option name="MAIN_CLASS_NAME" value="cn.yuanyuan.aop.xml.AppTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yuanyuan.practice07.App" />
       <module name="cn.yuanyuan.spring5-practic.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.yuanyuan.di.xml.test.*" />
+          <option name="PATTERN" value="cn.yuanyuan.practice07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.yuanyuan.di.xml.test" />
-      <option name="MAIN_CLASS_NAME" value="cn.yuanyuan.di.xml.test.Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Danlian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yuanyuan.practice09.Danlian" />
       <module name="cn.yuanyuan.spring5-practic.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.yuanyuan.annotation.test.*" />
+          <option name="PATTERN" value="cn.yuanyuan.practice09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.yuanyuan.annotation.test" />
-      <option name="MAIN_CLASS_NAME" value="cn.yuanyuan.annotation.test.Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTest.test (1)" />
-        <item itemvalue="JUnit.AppTest.test1" />
-        <item itemvalue="JUnit.AppTest.test" />
-        <item itemvalue="JUnit.Test.test (2)" />
+        <item itemvalue="Application.App (3)" />
+        <item itemvalue="Application.Danlian" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -316,6 +415,14 @@
       <option name="presentableId" value="Default" />
       <updated>1581834292385</updated>
       <workItem from="1581834296265" duration="15654000" />
+      <workItem from="1585123245315" duration="3988000" />
+      <workItem from="1585191775337" duration="12257000" />
+      <workItem from="1585218777681" duration="1023000" />
+      <workItem from="1585226700566" duration="15000" />
+      <workItem from="1585226747837" duration="12000" />
+      <workItem from="1585229042548" duration="611000" />
+      <workItem from="1585267768934" duration="3755000" />
+      <workItem from="1585294125061" duration="7427000" />
     </task>
     <servers />
   </component>
@@ -352,12 +459,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15672000" />
+    <option name="totallyTimeSpent" value="44760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28150135" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31367293" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -365,8 +472,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26832846" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3313783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,6 +496,7 @@
       <window_info anchor="right" id="Gradle" order="7" weight="0.3297587" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
@@ -429,300 +537,418 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/_constructor/CatC.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/pojo/Pojo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="88">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/ioc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/_factorybean/CatB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/_factorybean/CatFB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/createbean/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/lifecycle/bean/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="18" selection-start-line="18" selection-end-line="19" />
-          <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/lifecycle.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/bean/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/bean/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/bean/ConstructorBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/bean/CollectionBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/di.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/lifecycle/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/annotation.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/pojo/SimplePojo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/annotation/bean/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/annotation/test/Test.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/aopalliance/aop/Advice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="166">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/person">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/config/RetryAdvice.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/899739cf7f338f6297aa9eb25ea8b16338fe4e6d/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/Advisor.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/899739cf7f338f6297aa9eb25ea8b16338fe4e6d/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/aspectj/annotation/InstantiationModelAwarePointcutAdvisorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="-660" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/aspectj/AbstractAspectJAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/di/xml/test/Test.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/BeforeAdvice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/tx/TransactionManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/pratice09/App.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/pratice09/config.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/AbstractRegexpMethodPointcut.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="174">
+          <caret line="52" column="24" lean-forward="true" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/JdkRegexpMethodPointcut.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
+        <state relative-caret-position="90">
+          <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/service/ServiceSample.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/Advisor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="108">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/AppTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/PointcutAdvisor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/xml/dao/DaoSample.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/IntroductionAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/StaticMethodMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/StaticMethodMatcherPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="32" column="93" selection-start-line="32" selection-start-column="93" selection-end-line="32" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.yuanyuan.practice09.config.PointcutDemo">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.yuanyuan.practice09.config.PointcutDemo</OriginalElement>
+          <nodes>
+            <node x="" y="">cn.yuanyuan.practice09.config.PointcutDemo</node>
+            <node x="" y="">org.springframework.aop.Pointcut</node>
+            <node x="" y="">org.springframework.aop.support.StaticMethodMatcher</node>
+            <node x="" y="">org.springframework.aop.MethodMatcher</node>
+            <node x="" y="">org.springframework.aop.support.StaticMethodMatcherPointcut</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="325.0" y="287.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/aspectj/AspectJExpressionPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="84" column="53" selection-start-line="84" selection-start-column="53" selection-end-line="84" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/AbstractExpressionPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/ExpressionPointcut.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/aop_xml.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/config/PointcutDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="19" column="93" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/annotation/dao/DaoSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/annotation/service/ServiceSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/annotation/tx/TransactionManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/config/TestInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="242">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/aop/annotation/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/pojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/pojo/StoneAxe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.2.2.RELEASE/f673b23665fc2c6c626bed55694091ef29acaf37/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/annotation/Bean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1573">
+          <caret line="218" column="18" selection-start-line="218" selection-start-column="18" selection-end-line="218" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/aop/ProxySteelAxe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3619">
+          <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
+          <folding>
+            <element signature="e#7187#7188#0" expanded="true" />
+            <element signature="e#7234#7235#0" expanded="true" />
+            <element signature="e#7702#7703#0" expanded="true" />
+            <element signature="e#7737#7738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/aop/SteelAroundAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/aop_annotation.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/pojo/Axe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.2.2.RELEASE/f673b23665fc2c6c626bed55694091ef29acaf37/spring-context-5.2.2.RELEASE-sources.jar!/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/pojo/SteelAxe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="110">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/Danlian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#405#414#0" expanded="true" />
+            <element signature="e#497#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice09/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/TruePointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/Pointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/DefaultPointcutAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/pojo/Pojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/pojo/SimplePojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/TestAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/support/AbstractGenericPointcutAdvisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding>
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/TestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/TestPointcut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/AdvisedSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="60" column="62" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
+          <folding>
+            <element signature="e#4269#4270#0" expanded="true" />
+            <element signature="e#4326#4327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/config/BeforeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/config/TestBefore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice08/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice10/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/ProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="95" column="18" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
+          <folding>
+            <element signature="e#3211#3212#0" expanded="true" />
+            <element signature="e#3252#3253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.2.2.RELEASE/91feb350e99fca988bf065a54a49bbdf1f7efea9/spring-aop-5.2.2.RELEASE-sources.jar!/org/springframework/aop/framework/Advised.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="37" column="51" lean-forward="true" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
         </state>
       </provider>
     </entry>
