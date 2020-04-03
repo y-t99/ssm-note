@@ -22,5 +22,9 @@ dependencies {
     compile group: 'org.springframework', name: 'spring-test', version: SPRING_VERSION
     compile group: 'org.springframework', name: 'spring-context', version: SPRING_VERSION
     compile group: 'org.springframework', name: 'spring-jdbc', version: SPRING_VERSION
+    compile group: 'org.springframework', name: 'spring-tx', version: SPRING_VERSION
     compile group: 'org.aspectj', name: 'aspectjweaver', version: '1.9.5'
+    compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.48'
+    compile group: 'com.alibaba', name: 'druid', version: '1.1.21'
+    compile group: 'com.alibaba', name: 'fastjson', version: '1.2.67'
 }

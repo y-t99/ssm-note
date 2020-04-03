@@ -1,10 +1,13 @@
 package cn.yuanyuan.practice02.service;
 
-import org.springframework.stereotype.Component;
+import cn.yuanyuan.practice02.pojo.Account;
 
-@Component("service")
-public class Service {
-    public void service(){
-        System.out.println("service");
-    }
+public interface Service {
+    void addAccount(Account account);
+
+    void transfer(Account from,Account to, int number);
+
+    Account checkAccount(int id);
+
+    Account checkAccount(String name);
 }

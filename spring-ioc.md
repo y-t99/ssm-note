@@ -519,7 +519,7 @@ package cn.yuanyuan.app;
 public class App {
     public static void main(String[] args) {
         AnnotationConfigApplicationContext applicationContext=new AnnotationConfigApplicationContext(MyConfig.class);
-        final Dao dao = (Dao) applicationContext.getBean("dao");
+        final Dao dao = (Dao) applicationContext.getBean(Dao.class);
         System.out.println("App:"+dao);
         dao.query();
         applicationContext.close();
@@ -682,7 +682,7 @@ public class MyConfig {
 public class App {
     public static void main(String[] args) {
        AnnotationConfigApplicationContext applicationContext=new AnnotationConfigApplicationContext(MyConfig.class);
-       ((Dao)applicationContext.getBean("dao")).query();
+       ((Dao)applicationContext.getBean(Dao.class)).query();
     }
 }
 
