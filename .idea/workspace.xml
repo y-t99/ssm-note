@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6989fd23-a948-46a0-8bb1-f125130ba4d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/ssm.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ssm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/pracitce03/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/pracitce03/config/MyWebAppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/pracitce03/config/RootConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/MyWebAppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/MyWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/config/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice01/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/yuanyuan/practice02/config/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ssm" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ssm" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ssm" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ssm" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Java\springboot\ssm\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1ah8Ff7oEDKRr58CYUOlz6tgVFU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java考核/2020/第二次/作业2-文件传输助手/19计科4-王维-文件传输助手" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\springboot\ssm\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.43" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.43" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=utf-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : cn.yuanyuan : ssm-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssm" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8690" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : cn.yuanyuan : ssm-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.16803278" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6989fd23-a948-46a0-8bb1-f125130ba4d4" name="Default Changelist" comment="" />
+      <created>1587176362645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587176362645</updated>
+      <workItem from="1587176368683" duration="301000" />
+      <workItem from="1587176716136" duration="202000" />
+      <workItem from="1587176937014" duration="5623000" />
+      <workItem from="1587217523550" duration="5986000" />
+      <workItem from="1587223652804" duration="1079000" />
+      <workItem from="1587257921933" duration="4486000" />
+      <workItem from="1587364207164" duration="1579000" />
+      <workItem from="1587440574585" duration="668000" />
+      <workItem from="1587536497304" duration="603000" />
+      <workItem from="1587774881307" duration="3655000" />
+      <workItem from="1587778625295" duration="134000" />
+      <workItem from="1587778776831" duration="4099000" />
+      <workItem from="1587958342963" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587778526698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587778526698" />
+    <state x="218" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1587776462157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="218" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587776462157" />
+    <state x="575" y="319" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1587222688970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="319" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.824@0.0.1536.824" timestamp="1587222688970" />
+    <state x="578" y="319" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1587222698284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="319" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.824@0.0.1536.824" timestamp="1587222698284" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1587808695188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587808695188" />
+    <state width="1217" height="277" key="GridCell.Tab.0.bottom" timestamp="1587808696962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587808696962" />
+    <state width="1217" height="277" key="GridCell.Tab.0.center" timestamp="1587808696962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587808696962" />
+    <state width="1217" height="277" key="GridCell.Tab.0.left" timestamp="1587808696962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587808696962" />
+    <state width="1217" height="277" key="GridCell.Tab.0.right" timestamp="1587808696962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587808696962" />
+    <state width="1217" height="277" key="GridCell.Tab.1.bottom" timestamp="1587808696962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587808696962" />
+    <state width="1217" height="277" key="GridCell.Tab.1.center" timestamp="1587808696962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587808696962" />
+    <state width="1217" height="277" key="GridCell.Tab.1.left" timestamp="1587808696962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587808696962" />
+    <state width="1217" height="277" key="GridCell.Tab.1.right" timestamp="1587808696962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587808696962" />
+    <state width="1217" height="277" key="GridCell.Tab.2.bottom" timestamp="1587808696963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587808696963" />
+    <state width="1217" height="277" key="GridCell.Tab.2.center" timestamp="1587808696962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1587808696962" />
+    <state width="1217" height="277" key="GridCell.Tab.2.left" timestamp="1587808696962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1587808696962" />
+    <state width="1217" height="277" key="GridCell.Tab.2.right" timestamp="1587808696962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="277" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1587808696962" />
+    <state width="1217" height="232" key="GridCell.Tab.3.bottom" timestamp="1587222709013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="232" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587222709013" />
+    <state width="1217" height="232" key="GridCell.Tab.3.center" timestamp="1587222709013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="232" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1587222709013" />
+    <state width="1217" height="232" key="GridCell.Tab.3.left" timestamp="1587222709013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="232" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1587222709013" />
+    <state width="1217" height="232" key="GridCell.Tab.3.right" timestamp="1587222709013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1217" height="232" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1587222709013" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1587778514451">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587778514451" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587778837677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587778837677" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1587261354410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587261354410" />
+  </component>
+</project>
