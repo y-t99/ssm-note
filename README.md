@@ -210,6 +210,8 @@ public class HandlerExecutionChain {
 
 [Spring官网介绍](https://docs.spring.io/spring/docs/5.0.16.RELEASE/spring-framework-reference/core.html#validation-introduction)
 
+[校验](https://www.cnkirito.moe/spring-validation/)
+
 ### 2、一些注解
 
 |限制|说明|
